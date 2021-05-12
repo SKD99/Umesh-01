@@ -6,10 +6,13 @@
 
 <!--- 👋 Profile Views
 ![GitHub](https://img.shields.io/github/license/Umesh-01/Umesh-01?color=%23181717&label=Profile%20Views&logo=0&logoColor=%23181717)
+![GitHub watchers](https://img.shields.io/github/watchers/Umesh-01/Umesh-01?color=%23181717&label=Profile%20Views&style=social)
 --->
 ---
-![GitHub watchers](https://img.shields.io/github/watchers/Umesh-01/Umesh-01?color=%23181717&label=Profile%20Views&style=social)
-           [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umeshsingh19)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umesh-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Umesh-01" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umeshsingh19)
+
 ## GitHub Stats
 [![Umesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight)](https://github.com/Umesh-01/Umesh-01)
 
