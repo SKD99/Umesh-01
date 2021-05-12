@@ -1,9 +1,16 @@
-# 👋 Hi, I’m @Umesh-01 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="41px"> Hi, I’m @Umesh-01 👨‍💻
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<!--- 👋 Profile Views
+![GitHub](https://img.shields.io/github/license/Umesh-01/Umesh-01?color=%23181717&label=Profile%20Views&logo=0&logoColor=%23181717)
+--->
 ---
+![GitHub watchers](https://img.shields.io/github/watchers/Umesh-01/Umesh-01?color=%23181717&label=Profile%20Views&style=social)
+           [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umeshsingh19)
+## GitHub Stats
 [![Umesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight)](https://github.com/Umesh-01/Umesh-01)
 
 ---
