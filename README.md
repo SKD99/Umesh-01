@@ -16,7 +16,13 @@
 ## GitHub Stats
 [![Umesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight)](https://github.com/Umesh-01/Umesh-01)
 
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-01&theme=tokyonight" />
+</p>
+  
 ---
+
 <!---
 Simple Stats
 
