@@ -30,3 +30,9 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-01&theme=tokyonight" />
 </p>
+
+<!---
+Add a graph eaten by snake
+Add a dino game
+Add a thanks note at last
+--->
