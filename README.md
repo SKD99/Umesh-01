@@ -33,7 +33,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Umesh-01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Umesh-01)
 
-
+<!-- For Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-01&layout=compact&langs_count=10&theme=radical&hide=css,html,scss" alt="Umesh Singh's most used languages" /> 
+ -->
 <img src="https://activity-graph.herokuapp.com/graph?username=Umesh-01&theme=xcode">
   
 ---
