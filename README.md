@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Open-source.
 - 📫 Feel free to [reach](https://www.linkedin.com/in/umeshsingh19/) out to me.
 
----
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Umesh-01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Umesh-01)
-
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
 ## 🤝🏻 Connect with Me
 <div align="left"> 
        
@@ -22,6 +22,10 @@
 </div>
 
 ## 📈 GitHub Graph & Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Umesh-01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Umesh-01)
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Umesh-01&theme=xcode">
   
 ---
