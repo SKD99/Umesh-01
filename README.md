@@ -17,8 +17,16 @@
 
 ## 💻 Languages and Tools
 <div align="left"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffd343" height="25">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="25">
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/>
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/C%2B%2B.png" alt="CPP" width="40" height="40"/>
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/Java.png" alt="Java" width="40" height="40"/>
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>  
+<img src="https://github.com/Umesh-01/Umesh-01/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/> 
+  
+ 
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffd343" height="25"> -->
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="25"> -->
 </div>
 
 ## 📈 GitHub Graph & Stats
