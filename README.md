@@ -53,6 +53,7 @@ Add a thanks note at last
 
 ![Dino](https://github.com/Umesh-01/Umesh-01/blob/main/Resources/dino.gif)
 
+---
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
