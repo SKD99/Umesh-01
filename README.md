@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Open-source.
 - 📫 Feel free to [reach](https://www.linkedin.com/in/umeshsingh19/) out to me.
-
-
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 ## 🤝🏻 Connect with Me
 <div align="left"> 
@@ -36,6 +32,10 @@
 <!-- For Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-01&layout=compact&langs_count=10&theme=radical&hide=css,html,scss" alt="Umesh Singh's most used languages" /> 
  -->
+ <!-- For Most Used Languages
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-01)
+ -->
+ 
 <img src="https://activity-graph.herokuapp.com/graph?username=Umesh-01&theme=xcode">
   
 ---
@@ -50,3 +50,16 @@ Add a graph eaten by snake
 Add a dino game
 Add a thanks note at last
 --->
+
+![Dino](https://github.com/Umesh-01/Umesh-01/blob/main/Resources/dino.gif)
+
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://github.com/Umesh-01/Umesh-01/blob/main/Resources/Snake.svg)
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
