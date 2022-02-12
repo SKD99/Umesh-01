@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="41px"> Hi, I’m Umesh Singh 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Hi, I’m Umesh Singh 👨‍💻
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Open-source.
